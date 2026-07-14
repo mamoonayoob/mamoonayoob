@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" />
+  <img src="./Ultra-Modern Tech Banner for Mamoon Ayoob.png" width="100%" />
 </p>
 
 ---
