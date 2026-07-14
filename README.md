@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mamoon Ayoob</h1>
-
-<h3 align="center">
-Full Stack Software Engineer | React • Next.js • Node.js
-</h3>
-
 <p align="center">
-Building scalable web applications and modern web experiences.
+  <img src="./banner.png" width="100%" />
 </p>
 
 ---
